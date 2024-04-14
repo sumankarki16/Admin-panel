@@ -21,11 +21,11 @@
             <span class="fas fa-caret-down second"></span>
           </a>
           <ul class="serv-show sub-menu">
-            <li><a href="#">app.php</a></li>
-            <li><a href="#">web.php</a></li>
+            <li><a href="#">Application</a></li>
+            <li><a href="#">Web App</a></li>
           </ul>
         </li>
-        <li><a href="#">portfolio.php</a></li>
+        <li><a href="portfolio.php">Portfolio</a></li>
         <li><a href="#">Overview</a></li>
         <li><a href="#">Shortcuts</a></li>
         <li><a href="#">Feedback</a></li>
